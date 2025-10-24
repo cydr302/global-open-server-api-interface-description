@@ -1,0 +1,1 @@
+This type of device needs to check if the vehicle is parked correctly before calling the lock API- start API to start the car wash. Or after making sure the car is parked correctly, call the lock and start API to start the car wash.
